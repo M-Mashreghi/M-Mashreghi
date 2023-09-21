@@ -37,6 +37,9 @@
 ###
 
 <div style="margin-bottom: 35px" align="center">
+  <img src="https://api.visitorbadge.io/api/VisitorHit?section=header&user=M-Mashreghi&repo=github-visitors-badge&countColor=DodgerBlue" />
+</div>
+<div style="margin-bottom: 35px" align="center">
   <img src="https://api.visitorbadge.io/api/VisitorHit?user=M-Mashreghi&repo=github-visitors-badge&countColor=DodgerBlue&section=header" />
 </div>
 <p align="center">
