@@ -50,7 +50,7 @@
   <a href="https://t.me/devexpert127">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=Telegram&logoColor=white">
   </a> 
-  <a href="https://discord.gg/GpCFVEt5">
+  <a href="https://discord.gg/mashreghi">
     <img src="https://img.shields.io/badge/discord-0A0A0A?style=for-the-badge&logo=discord&logoColor=white">
   </a> 
   <a href="https://web.skype.com/live:.cid.2be64375b9f4b2b0">
@@ -59,7 +59,7 @@
    <a href="https://web.skype.com/live:.cid.2be64375b9f4b2b0">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
-   <a href="https://web.skype.com/live:.cid.2be64375b9f4b2b0">
+   <a href="https://m-mashreghi.github.io/">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
   </a> 
 </p>
