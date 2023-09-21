@@ -36,9 +36,6 @@
 <div style="margin-bottom: 35px" align="center">
   <img src="https://api.visitorbadge.io/api/VisitorHit?user=M-Mashreghi&repo=github-visitors-badge&countColor=DodgerBlue" />
 </div>
-
-###
-
 <p align="center">
   <a href="https://t.me/devexpert127">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=Telegram&logoColor=white">
