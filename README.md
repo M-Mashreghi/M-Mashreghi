@@ -1,8 +1,10 @@
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/HTZVeK0esRjyw/giphy.gif" width="200" height="120" />
-
 <div align="center">
   <img height="120" src="https://capsule-render.vercel.app/api?color=gradient&customColorList=1&type=waving" />
 </div>
+
+
+  
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/HTZVeK0esRjyw/giphy.gif" width="200" height="120" />
 
 
 
@@ -35,7 +37,7 @@
 
 
 <div align="center">
-  <img height="120" src="https://user-images.githubusercontent.com/123120185/257965076-a45fbf30-104f-4dea-b41f-4babd28f92d2.svg"  />
+  <img height="120" src="https://capsule-render.vercel.app/api?color=gradient&customColorList=1&type=waving&section=footer"  />
 </div>
 
 ###
