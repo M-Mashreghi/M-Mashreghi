@@ -37,7 +37,7 @@
 ###
 
 <div style="margin-bottom: 35px" align="center">
-  <img src="https://api.visitorbadge.io/api/VisitorHit?user=M-Mashreghi&repo=github-visitors-badge&countColor=DodgerBlue" />
+  <img src="https://api.visitorbadge.io/api/VisitorHit?user=M-Mashreghi&repo=github-visitors-badge&countColor=DodgerBlue&section=header" />
 </div>
 <p align="center">
   <a href="https://t.me/devexpert127">
