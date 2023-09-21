@@ -1,6 +1,6 @@
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-
+<div class="tenor-gif-embed" data-postid="5275838" data-share-method="host" data-aspect-ratio="1.78571" data-width="100%"><a href="https://tenor.com/view/kermit-typing-frog-fast-comments-gif-5275838">Typing Frog GIF</a>from <a href="https://tenor.com/search/kermit-gifs">Kermit GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 
 
