@@ -1,7 +1,7 @@
   <img align="right" alt="GIF" src="https://media.giphy.com/media/HTZVeK0esRjyw/giphy.gif" width="200" height="120" />
 
 <div align="center">
-  <img height="120" src="https://capsule-render.vercel.app/api?color=gradient&customColorList=1" />
+  <img height="120" src="https://capsule-render.vercel.app/api?color=gradient&customColorList=1type=waving" />
 </div>
 
 
