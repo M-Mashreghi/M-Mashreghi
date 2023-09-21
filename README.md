@@ -57,9 +57,6 @@
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
   </a> 
 </p>
-###
-![footer](https://capsule-render.vercel.app/api?section=footer)
-
 
 
 
