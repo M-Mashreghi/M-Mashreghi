@@ -19,7 +19,7 @@
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=pytorch,python,cpp,c,matlab,html"/><br>
-    <img src="https://skillicons.dev/icons?i=git,github,linux,arduino"/><br>
+    <img src="https://skillicons.dev/icons?i=git,github,linux,arduino,latex"/><br>
 </div>
 
 ###
