@@ -1,4 +1,4 @@
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/HTZVeK0esRjyw/giphy.gif" width="250" height="160" />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/HTZVeK0esRjyw/giphy.gif" width="375" height="240" />
 
 
 <h1 align="center">
