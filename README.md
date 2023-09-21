@@ -46,6 +46,12 @@
   <a href="https://web.skype.com/live:.cid.2be64375b9f4b2b0">
     <img src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white">
   </a> 
+   <a href="https://web.skype.com/live:.cid.2be64375b9f4b2b0">
+    <img src="https://img.shields.io/badge/Linkdin-00AFF0?style=for-the-badge&logo=skype&logoColor=white">
+  </a> 
+   <a href="https://web.skype.com/live:.cid.2be64375b9f4b2b0">
+    <img src="https://img.shields.io/badge/Webpage-00AFF0?style=for-the-badge&logo=skype&logoColor=white">
+  </a> 
 </p>
 ###
 
