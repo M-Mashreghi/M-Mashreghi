@@ -10,8 +10,8 @@
 <h2 align="center">Technical Skills :</h2>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=pytorch,arduino,typescript,python,cpp,c,matlab,lua,html,css"/><br>
-    <img src="https://skillicons.dev/icons?i=git,github,linux"/><br>
+    <img src="https://skillicons.dev/icons?i=pytorch,python,cpp,c,matlab,html"/><br>
+    <img src="https://skillicons.dev/icons?i=git,github,linux,arduino"/><br>
 </div>
 
 ###
