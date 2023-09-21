@@ -32,7 +32,18 @@
 </div>
 
 ###
-
+<p align="center">
+  <a href="https://t.me/devexpert127">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=Telegram&logoColor=white">
+  </a> 
+  <a href="https://discord.gg/GpCFVEt5">
+    <img src="https://img.shields.io/badge/discord-0A0A0A?style=for-the-badge&logo=discord&logoColor=white">
+  </a> 
+  <a href="https://web.skype.com/live:.cid.2be64375b9f4b2b0">
+    <img src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white">
+  </a> 
+</p>
+###
 
 
 
