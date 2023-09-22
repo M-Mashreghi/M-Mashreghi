@@ -14,7 +14,15 @@
 </h1>
 
 ###
+<h2 align="center">About Me :</h2>
+<div align="center">
 
+- 👋 Hi, I’m @M-Mashreghi
+- 👀 I’m interested in Algotrading
+- 🌱 I’m currently learning Deep learning
+</div>
+
+###
 <h2 align="center">Technical Skills :</h2>
 
 <div align="center">
@@ -67,10 +75,6 @@
 
 
 
-- 👋 Hi, I’m @M-Mashreghi
-- 👀 I’m interested in Algotrading
-- 🌱 I’m currently learning Deep learning
-- 📫 How to reach me [m.mashreghi@ut.ac.ir](m.mashreghi@ut.ac.ir)
 
 <!---
 M-Mashreghi/M-Mashreghi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
