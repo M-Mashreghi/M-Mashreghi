@@ -68,10 +68,9 @@
 
 
 - 👋 Hi, I’m @M-Mashreghi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Algotrading
+- 🌱 I’m currently learning Deep learning
+- 📫 How to reach me [m.mashreghi@ut.ac.ir](m.mashreghi@ut.ac.ir)
 
 <!---
 M-Mashreghi/M-Mashreghi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
