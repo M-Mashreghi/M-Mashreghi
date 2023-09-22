@@ -45,11 +45,6 @@
 ###
 
 
-
-
-###
-
-
 <div style="margin-bottom: 35px" align="center">
   <img src="https://api.visitorbadge.io/api/VisitorHit?user=M-Mashreghi&repo=github-visitors-badge&countColor=DodgerBlue&section=header" />
 </div>
@@ -57,9 +52,11 @@
   <a href="https://t.me/devexpert127">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=Telegram&logoColor=white">
   </a> 
+<!---
   <a href="https://discord.gg/mashreghi">
     <img src="https://img.shields.io/badge/discord-0A0A0A?style=for-the-badge&logo=discord&logoColor=white">
   </a> 
+  --->
   <a href="https://web.skype.com/live:.cid.2be64375b9f4b2b0">
     <img src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white">
   </a> 
