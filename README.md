@@ -17,9 +17,9 @@
 <h2 align="center">About Me :</h2>
 <div align="center">
 
-- 👋 Hi, I’m @M-Mashreghi
-- 👀 I’m interested in Algotrading
-- 🌱 I’m currently learning Deep learning
+ 👋 Hi, I’m @M-Mashreghi
+ 👀 I’m interested in Algotrading
+ 🌱 I’m currently learning Deep learning
 </div>
 
 ###
@@ -30,7 +30,7 @@
     <img src="https://skillicons.dev/icons?i=vscode,github,linux,arduino,latex"/><br>
 </div>
 
-###
+
 
 <h2 align="center">Stats :</h2>
 
@@ -44,9 +44,6 @@
 
 
 
-<div align="center">
-  <img height="120" src="https://capsule-render.vercel.app/api?color=gradient&customColorList=1&type=waving&section=footer"  />
-</div>
 
 ###
 
@@ -71,7 +68,10 @@
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
   </a> 
 </p>
-
+###
+<div align="center">
+  <img height="120" src="https://capsule-render.vercel.app/api?color=gradient&customColorList=1&type=waving&section=footer"  />
+</div>
 
 
 
