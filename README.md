@@ -14,7 +14,7 @@
 </h1>
 
 ###
-<h2 align="center">About Me :</h2>
+<h2 align="center">About me :</h2>
 <div align="center">
 
  👋 Hi, I’m @M-Mashreghi
@@ -44,6 +44,7 @@
 
 ###
 
+<h2 align="center">🌎 Find me:</h2>
 
 <div style="margin-bottom: 35px" align="center">
   <img src="https://api.visitorbadge.io/api/VisitorHit?user=M-Mashreghi&repo=github-visitors-badge&countColor=DodgerBlue&section=header" />
@@ -67,7 +68,7 @@
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
   </a> 
 </p>
-###
+
 <div align="center">
   <img height="120" src="https://capsule-render.vercel.app/api?color=gradient&customColorList=1&type=waving&section=footer"  />
 </div>
