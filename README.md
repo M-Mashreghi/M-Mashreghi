@@ -23,8 +23,9 @@
 
  🌱 I’m currently learning Deep learning
 </div>
---> 
+
 ###
+--> 
 <h2 align="center">Technical Skills :</h2>
 
 <div align="center">
