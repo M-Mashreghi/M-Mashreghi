@@ -2,13 +2,7 @@
   <img height="120" src="https://capsule-render.vercel.app/api?color=gradient&customColorList=1&type=waving" />
 </div>
 
-<div align="center">
 
-
-https://github.com/M-Mashreghi/M-Mashreghi/assets/78053151/c893917e-8d13-4c61-a05a-266163f7338b
-
-
-</div>
 
    <div style="text-align: center;">
     <img src="https://github.com/M-Mashreghi/M-Mashreghi/assets/78053151/c893917e-8d13-4c61-a05a-266163f7338b" alt="Your Image" style="width: 300px; height: 300px;">
@@ -44,7 +38,10 @@ https://github.com/M-Mashreghi/M-Mashreghi/assets/78053151/c893917e-8d13-4c61-a0
 <div align="center"  width="400" height="400"  >
 
 
-https://github.com/M-Mashreghi/M-Mashreghi/assets/78053151/b9da497f-652f-418d-b43e-76c71012f1a0
+
+
+https://github.com/M-Mashreghi/M-Mashreghi/assets/78053151/293703b8-d3f0-429e-8bcc-53813f44abab
+
 
 
 </div>
