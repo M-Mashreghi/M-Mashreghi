@@ -31,11 +31,9 @@
 ###
 
 --> 
+<video src='https://raw.githubusercontent.com/M-Mashreghi/M-Mashreghi/main/unwrapped-M-Mashreghi.mp4' width=180/>
 
-<video width="400" controls>
-  <source src="https://raw.githubusercontent.com/M-Mashreghi/M-Mashreghi/main/unwrapped-M-Mashreghi.mp4" type="video/mp4">
 
-</video>
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
