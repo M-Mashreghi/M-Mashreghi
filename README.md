@@ -31,8 +31,8 @@
 ###
 
 --> 
-<video src='https://raw.githubusercontent.com/M-Mashreghi/M-Mashreghi/main/unwrapped-M-Mashreghi.mp4' width=180/>
 
+[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">](https://raw.githubusercontent.com/M-Mashreghi/M-Mashreghi/main/unwrapped-M-Mashreghi.mp4 "Now in Android: 55")
 
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
