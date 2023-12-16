@@ -7,8 +7,6 @@
   <img align="right" alt="GIF" src="https://media.giphy.com/media/HTZVeK0esRjyw/giphy.gif" width="200" height="120" />
 
   
-  <img align="left" alt="mp4" src="https://raw.githubusercontent.com/M-Mashreghi/M-Mashreghi/main/unwrapped-M-Mashreghi.mp4" width="200" height="120" />
-
 
 
 <h1 align="center">
@@ -32,7 +30,6 @@
 
 --> 
 
-[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">](https://raw.githubusercontent.com/M-Mashreghi/M-Mashreghi/main/unwrapped-M-Mashreghi.mp4 "Now in Android: 55")
 
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
