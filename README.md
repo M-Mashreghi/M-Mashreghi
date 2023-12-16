@@ -10,7 +10,9 @@ https://github.com/M-Mashreghi/M-Mashreghi/assets/78053151/c893917e-8d13-4c61-a0
 
 </div>
 
-  
+   <div style="text-align: center;">
+    <img src="https://github.com/M-Mashreghi/M-Mashreghi/assets/78053151/c893917e-8d13-4c61-a05a-266163f7338b" alt="Your Image" style="width: 300px; height: 300px;">
+  </div>
   <img align="right" alt="GIF" src="https://media.giphy.com/media/HTZVeK0esRjyw/giphy.gif" width="200" height="120" />
 
   
