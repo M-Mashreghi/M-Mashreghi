@@ -16,13 +16,7 @@ https://github.com/M-Mashreghi/M-Mashreghi/assets/78053151/c893917e-8d13-4c61-a0
   <img align="right" alt="GIF" src="https://media.giphy.com/media/HTZVeK0esRjyw/giphy.gif" width="200" height="120" />
 
   
-<h1 align="center">
-   
 
-https://github.com/M-Mashreghi/M-Mashreghi/assets/78053151/a741c063-6856-4401-95ae-c16596b229ec
-
-
-</h1>
 
 
 <h1 align="center">
@@ -47,8 +41,11 @@ https://github.com/M-Mashreghi/M-Mashreghi/assets/78053151/a741c063-6856-4401-95
 --> 
 
 
-<div align="center">
-  https://github.com/M-Mashreghi/M-Mashreghi/assets/78053151/a1dbc316-a8d2-4093-92d3-e5659edeb688
+<div align="center"  width="400" height="400"  >
+
+
+https://github.com/M-Mashreghi/M-Mashreghi/assets/78053151/b9da497f-652f-418d-b43e-76c71012f1a0
+
 
 </div>
 
