@@ -32,23 +32,6 @@
 
 --> 
 
-<summary align="center">📈 Stats
-
-
-
-
-<br  align="center">
-
-
-
-https://github.com/M-Mashreghi/M-Mashreghi/assets/78053151/5f90c056-b62f-4176-b5ef-de9a60c21306
-
-
-
-</br>
-
-
-</summary>
 <div align="center"  width="400" height="400"  >
 
 
