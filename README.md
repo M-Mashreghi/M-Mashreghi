@@ -56,7 +56,7 @@ https://github.com/M-Mashreghi/M-Mashreghi/assets/78053151/293703b8-d3f0-429e-8b
 
 
 
-<h2 align="center">Stats :</h2>
+<h2 align="center"><summary>📈 Stats :</summary></h2>
 
 <div align="center">
   <img width=383 src="https://streak-stats.demolab.com/?user=M-Mashreghi&count_private=true&theme=transparent&border_radius=10" alt="streak stats"/>
