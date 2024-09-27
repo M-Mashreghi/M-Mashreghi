@@ -83,7 +83,7 @@ https://github.com/M-Mashreghi/M-Mashreghi/assets/78053151/293703b8-d3f0-429e-8b
 
 ###
 
-<h2 align="center">🌎 Find me:</h2>
+<h2 align="center">🌎 Find Me:</h2>
 
 <div style="margin-bottom: 35px" align="center">
   <img src="https://api.visitorbadge.io/api/VisitorHit?user=M-Mashreghi&repo=github-visitors-badge&countColor=DodgerBlue&section=header" />
