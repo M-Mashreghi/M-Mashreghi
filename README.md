@@ -54,9 +54,10 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=M-Mashreghi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=false&order=2&custom_title=Languages" height="150" alt="languages graph"/>
     <img src="https://github-readme-stats.vercel.app/api?username=M-Mashreghi&hide_title=false&hide=contribs,issues&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=false&order=1&custom_title=Stats" height="150" alt="stats graph"/>
 
-    <div align="center" width="400" height="400">
-      <a href="https://github.com/M-Mashreghi/M-Mashreghi/assets/78053151/293703b8-d3f0-429e-8bcc-53813f44abab">Watch this</a>
-    </div>
+  <div  width="400" height="400">
+      https://github.com/M-Mashreghi/M-Mashreghi/assets/78053151/293703b8-d3f0-429e-8bcc-53813f44abab
+
+  </div>
   </details>
 </div>
 
