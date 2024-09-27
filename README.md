@@ -55,6 +55,7 @@ https://github.com/M-Mashreghi/M-Mashreghi/assets/78053151/293703b8-d3f0-429e-8b
 </div>
 
 
+<details>
 
 <h2 align="center"><summary>📈 Stats :</summary></h2>
 <br>
@@ -65,6 +66,7 @@ https://github.com/M-Mashreghi/M-Mashreghi/assets/78053151/293703b8-d3f0-429e-8b
   <img src="https://github-readme-stats.vercel.app/api?username=M-Mashreghi&hide_title=false&hide=contribs,issues&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=false&order=1&custom_title=Stats" height="150" alt="stats graph"/>
 </div>
 </br>
+</details>
 
 ###
 
