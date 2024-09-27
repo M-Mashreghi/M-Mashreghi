@@ -33,13 +33,11 @@
 --> 
 <h2 align="center">🌟 About Me :</h2>
 
-<div align="center">
+<div align="left">
 
- 🌟 Hi, I’m @M-Mashreghi
- 
- 👀 I’m interested in Algotrading
+I'm Mohammad Mashreghi, a senior Electrical Engineering student at the University of Tehran, with a minor in Business Management. Throughout my undergraduate journey, I've had enriching experiences, both academically and personally. I am now seeking new opportunities to further my growth and make a positive impact on my community.
 
- 🌱 I’m currently learning Deep learning
+For more details, feel free to visit my website.
 
 </div>
 
