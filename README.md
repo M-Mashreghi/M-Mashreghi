@@ -31,13 +31,24 @@
 ###
 
 --> 
+<h2 align="center">🌟 About Me :</h2>
+
+<div align="center">
+
+ 🌟 Hi, I’m @M-Mashreghi
+ 
+ 👀 I’m interested in Algotrading
+
+ 🌱 I’m currently learning Deep learning
+
+</div>
 
 
 
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
-<h2 align="center">Technical Skills :</h2>
+<h2 align="center">💻 Technical Skills :</h2>
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=pytorch,python,cpp,c,matlab,html"/><br>
